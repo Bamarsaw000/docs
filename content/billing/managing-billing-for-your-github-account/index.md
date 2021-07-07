@@ -25,3 +25,4 @@ children:
   - /discounted-subscriptions-for-github-accounts
 ---
 
+docs/content/billing/managing-billing-for-your-github-account/index.md
